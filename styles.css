@@ -547,7 +547,7 @@ p{
 #status.error{
   background-color: #ff5d73;
   color: white;
-  animation: status 7s ease forwards;
+  animation: status 5s ease forwards;
 }
 
 @keyframes status {
